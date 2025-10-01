@@ -1,3 +1,3 @@
 # BWT_3_semestr
 
-https://github.com/uliashedrina-creator/BWT_3_semestr/blob/main/14-15/01/index.html
+https://uliashedrina-creator.github.io/BWT_3_semestr/14-15/01/index.html
